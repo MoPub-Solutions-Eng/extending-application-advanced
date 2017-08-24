@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/4556c245af04596c8a2e5c177697d20ac419071a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ced98d7e862b4add1a740713334702cd9f7928f">
+        <dex dex="/Users/vchau/Desktop/APAC/ExtendingApplicationClassAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_507eca92bd5e12b33118c9325d3c647b8b54b22f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/49b67f3746613aa8ddb94332df45926daf2a26e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e08d985b4cd4aa70f272725aaf05a750f5adad4">
+        <dex dex="/Users/vchau/Desktop/APAC/ExtendingApplicationClassAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1daec67249721d134bb5555d4b7b7142deee0ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/Desktop/APAC/ExtendingApplicationClassAdvanced/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/vchau/Desktop/APAC/ExtendingApplicationClassAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1a0f2ac3903721d0e07c9b6f0a71d03533d89b82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/.android/build-cache/e7260edcbed3e384b56c7fbd831290626e9f7bce/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6b6a9c93a5b229110d433523d033e196e60e10">
+        <dex dex="/Users/vchau/Desktop/APAC/ExtendingApplicationClassAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19a6d6e630c8be57ac0c0f3ff653ca8db331a298/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vchau/Desktop/APAC/ExtendingApplicationClassAdvanced/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a31434d20b1456bad49d7473f6174d11db35bfd3">
+        <dex dex="/Users/vchau/Desktop/APAC/ExtendingApplicationClassAdvanced/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6b2766cf96437fb3014b9a4ee0a16647ef5048db/classes.dex" />
+    </item>
+
+</items>
